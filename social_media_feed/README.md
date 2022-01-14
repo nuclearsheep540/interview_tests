@@ -18,6 +18,9 @@ Guidelines
 
 ● The web page should look something like the below wireframe
 
+![feeds](https://user-images.githubusercontent.com/37055772/149490113-c5c45d73-f359-4b9c-9dd2-2bf912a8dc97.PNG)
+
+
 ● Your app should be able to run in a self contained, local environment (i.e not relying on
 any cloud services)
 
